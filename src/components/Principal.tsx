@@ -5,6 +5,7 @@ export const Principal = () => {
         <div>
             <h3>Principal</h3>
             <button className='btn btn-primary'>Hola</button>
+            <img src="../imagenes/goku.png" alt=""/>
         </div>
     )
 }
